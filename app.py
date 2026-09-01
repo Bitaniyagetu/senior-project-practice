@@ -1,0 +1,6 @@
+print("Senior Project Developer Profile")
+print()
+print("Name: Bitaniya Getu")
+print("Major: Computer Science")
+print("Technology Interest: Artificial Intelligence")
+print("Skill Goal: Software Development")
